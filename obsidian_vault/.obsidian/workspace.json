@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "e23ea7704885c88c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee1670fc38c5b16e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e916fb5b9a8d5f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sisop/Clase practica 20-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "407a537423fb3766",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bf38b0ac9e42f7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9a56a99c2380b1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4832e2a074ec7388",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8ab9648cea64f8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c76284d86afc2f6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "016bad13c7a68c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c13c1697bf5e8f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sisop/Clase practica 20-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a44ca6745277c45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sisop/Clase practica 20-04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c7135bb3f2b8e7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9f3427d87307171",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sisop/Clase practica 20-04.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a9a56a99c2380b1a",
+  "lastOpenFiles": [
+    "sisop/Clase practica 20-04.md",
+    "Sin título.canvas",
+    "2024-04-19.md",
+    "sisop/Clase 18-04.md",
+    "Untitled.md",
+    "Untitled/Untitled",
+    "sisop"
+  ]
+}
