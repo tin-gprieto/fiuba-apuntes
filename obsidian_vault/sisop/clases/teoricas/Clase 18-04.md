@@ -84,3 +84,8 @@ Minimizar turn around time -> mejor
 	- Feedback -> Va aprendiendo en base a los procesos que va ejecutando 
 
 ** Un buen planificador debe decidir rapidamente quien sigue -> algoritmo de decision tendiendo a O(1)
+
+--------------------------------------------------------------
+
+
+

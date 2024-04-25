@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sisop/Clase practica 20-04.md",
+                "file": "sisop/clases/teoricas/Clase 25-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sisop/Clase practica 20-04.md",
+                "file": "sisop/clases/teoricas/Clase 25-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sisop/Clase practica 20-04.md",
+                "file": "sisop/clases/teoricas/Clase 25-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sisop/Clase practica 20-04.md"
+                "file": "sisop/clases/teoricas/Clase 25-04.md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a9a56a99c2380b1a",
+  "active": "e916fb5b9a8d5f0d",
   "lastOpenFiles": [
-    "sisop/Clase practica 20-04.md",
+    "sisop/clases/practicas",
+    "sisop/clases/teoricas",
+    "sisop/clases",
+    "sisop/clases/teoricas/Clase 18-04.md",
+    "sisop/clases/teoricas/Clase 25-04.md",
+    "sisop/clases/practicas/Clase practica 20-04.md",
     "Sin título.canvas",
     "2024-04-19.md",
-    "sisop/Clase 18-04.md",
     "Untitled.md",
     "Untitled/Untitled",
     "sisop"
