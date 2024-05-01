@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "e23ea7704885c88c",
+    "id": "4c7df8b2d65c5f93",
     "type": "split",
     "children": [
       {
-        "id": "ee1670fc38c5b16e",
+        "id": "354831bd360f4777",
         "type": "tabs",
         "children": [
           {
-            "id": "e916fb5b9a8d5f0d",
+            "id": "efbedff64e7f5c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sisop/clases/teoricas/Clase 25-04.md",
+                "file": "sisop/clases/teoricas/Clase 18-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "407a537423fb3766",
+    "id": "4d01ec8287dadbc1",
     "type": "split",
     "children": [
       {
-        "id": "0bf38b0ac9e42f7e",
+        "id": "971aaeb8ab92ef1a",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a56a99c2380b1a",
+            "id": "9a883e04e017eb10",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "4832e2a074ec7388",
+            "id": "fbc3c0db1886c6bc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "d8ab9648cea64f8f",
+            "id": "ddd9fdcbaa7b9d6e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "c76284d86afc2f6e",
+    "id": "a7467f8683f0eae2",
     "type": "split",
     "children": [
       {
-        "id": "016bad13c7a68c67",
+        "id": "f8c8c5c35d4a6751",
         "type": "tabs",
         "children": [
           {
-            "id": "9c13c1697bf5e8f8",
+            "id": "9af8655b9aa3f052",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sisop/clases/teoricas/Clase 25-04.md",
+                "file": "sisop/clases/teoricas/Clase 18-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "9a44ca6745277c45",
+            "id": "f7c3aca6f1da1fba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sisop/clases/teoricas/Clase 25-04.md",
+                "file": "sisop/clases/teoricas/Clase 18-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2c7135bb3f2b8e7c",
+            "id": "7446b880208ff4ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "b9f3427d87307171",
+            "id": "d8176677c1037374",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "sisop/clases/teoricas/Clase 25-04.md"
+                "file": "sisop/clases/teoricas/Clase 18-04.md"
               }
             }
           }
@@ -143,21 +143,21 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e916fb5b9a8d5f0d",
+  "active": "efbedff64e7f5c63",
   "lastOpenFiles": [
-    "sisop/clases/practicas",
-    "sisop/clases/teoricas",
-    "sisop/clases",
-    "sisop/clases/teoricas/Clase 18-04.md",
     "sisop/clases/teoricas/Clase 25-04.md",
     "sisop/clases/practicas/Clase practica 20-04.md",
-    "Sin título.canvas",
-    "2024-04-19.md",
-    "Untitled.md",
-    "Untitled/Untitled",
-    "sisop"
+    "sisop/teoría/7. Filesystems.md",
+    "sisop/teoría/5. Scheduling.md",
+    "sisop/teoría/3. La abstracción de proceso.md",
+    "sisop/teoría/1. Introducción a los sistemas operativos.md",
+    "sisop/teoría/2. Kernel - userland vs kernelspace.md",
+    "sisop/clases/teoricas/Clase 18-04.md",
+    "README.md",
+    "sisop/Bibliografía.md"
   ]
 }

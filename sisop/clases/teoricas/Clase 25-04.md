@@ -1,28 +1,28 @@
 **Virtualizadores**
 
 - Memoria: VM
-- CPU: Scheduler -> Particion temporal
+- CPU: Scheduler -> Partición temporal
 - I/O: Filesystem 
 
 	 Objetivo: simplificar el manejo de recursos por parte de los procesos para que crean que tienen completa disponibilidad de las computadoras.
 
 ## Concurrencia
 
-**Procesos** : Se ejecutan aisaldamente entre si, pero, que pasa si necesitan comunicarse entre si?
+**Procesos** : Se ejecutan aisladamente entre si, pero, que pasa si necesitan comunicarse entre si?
 
-Manejar paralelamente la ejecucion de varios procesos
+Manejar paralelamente la ejecución de varios procesos
 
 ### Threads
 
-Hilos de trabajo: secuencia independiente de instrucciones ejecutandose en un solo proceso. Comparten memoria entre si
+Hilos de trabajo: secuencia independiente de instrucciones ejecutándose en un solo proceso. Comparten memoria entre si
 
-Abstraccion: la unidad minima de paralelizacion de procesos
+Abstracción: la unidad minima de paralización de procesos
 
-Ejecucion en **mononucleo** :
+Ejecución en **mononucleo** :
 -   importancia de la velocidad del clock (Hz)
--  Impedimento fisico: llego a un limite en poder reducir transistores y obtener mas velocidad sin tener estrangulamiento termico
-Ejecucion en **multinucleo**:
--  Ejecucion en paralelo: cuantos mas cores y mas optimizados esten, va a ser mas veloz sin tener que aumentar el clock
+-  Impedimento físico: llego a un limite en poder reducir transistores y obtener mas velocidad sin tener estrangulamiento térmico
+Ejecución en **multinucleo**:
+-  Ejecución en paralelo: cuantos mas cores y mas optimizados estén, va a ser mas veloz sin tener que aumentar el clock
 
 
 Dificultades de la concurrencia:
@@ -30,17 +30,17 @@ Dificultades de la concurrencia:
 - ...
 - ...
 
-Composicion del thread:
+Composición del thread:
 	-  Thread id
 	-  Valores de registros
 	- Stack propio
-	- politica y prioridad de ejecucion
+	- política y prioridad de ejecución
 	- propio errno
-	- Datos especificos del thread (...)
+	- Datos específicos del thread (...)
 
-(insertar grafico de single-thread process y multi-thread process)
+(insertar gráfico de single-thread process y multi-thread process)
 
-! Diferencia entre thread y fork -> No estan aislados entre si, comparten memoria
+! Diferencia entre thread y fork -> No están aislados entre si, comparten memoria
 
 ### Thread Scheduler
 
@@ -55,10 +55,10 @@ Posibles ejecuciones de :
 `z = x + 5y`
 
 Los thread se relacionan entre si:
-	- Multi threading cooperativo: no hay interrumpcion a menos que alguien se lo solicite
+	- Multi threading cooperativo: no hay interrupción a menos que alguien se lo solicite
 	- Multi threading  preemptivo: Mas usando en la actualidad. Un thread en estado running puede ser movido en cualquier momento 
 
-### Creacion
+### Creación
 
 C: bibliotecas externas con syscalls
 Java / Rust: con la lib standard
