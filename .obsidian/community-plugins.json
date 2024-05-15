@@ -6,5 +6,8 @@
   "obsidian-kanban",
   "obsidian-linter",
   "quick-latex",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "companion",
+  "obsidian-completr",
+  "oz-image-plugin"
 ]

@@ -121,4 +121,6 @@ vfork() + exec() -> Mas optimo (si fuese fork() copiaria las tablas y el exec la
 
 threads -> no copia toda la memoria -> lightweigth process
 
-Thread Group
+Thread Group 
+
+proce

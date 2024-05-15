@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sisop/clases/teoricas/Clase 18-04.md",
+                "file": "sisop/clases/teoricas/Clase 05-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sisop/clases/teoricas/Clase 18-04.md",
+                "file": "sisop/clases/teoricas/Clase 05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sisop/clases/teoricas/Clase 18-04.md",
+                "file": "sisop/clases/teoricas/Clase 05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sisop/clases/teoricas/Clase 18-04.md"
+                "file": "sisop/clases/teoricas/Clase 05-15.md"
               }
             }
+          },
+          {
+            "id": "ec613e026792a85f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -144,19 +153,38 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "companion:Toggle completion": false
     }
   },
   "active": "efbedff64e7f5c63",
   "lastOpenFiles": [
-    "sisop/clases/teoricas/Clase 25-04.md",
-    "sisop/clases/practicas/Clase practica 20-04.md",
-    "sisop/teoría/7. Filesystems.md",
+    "sisop/clases/teoricas/Clase 04-24.md",
+    "sisop/clases/teoricas/Clase 05-15.md",
+    "sisop/clases/teoricas/Clase 03-27.md",
     "sisop/teoría/5. Scheduling.md",
+    "sisop/teoría/4. Virtualización de memoria (introducción).md",
     "sisop/teoría/3. La abstracción de proceso.md",
     "sisop/teoría/1. Introducción a los sistemas operativos.md",
+    "sisop/clases/teoricas/Clase 04-18.md",
+    "sisop/clases/teoricas/Clase 03-20.md",
+    "sisop/clases/teoricas/Clase 03-14.md",
+    "sisop/clases/practicas/TP Scheduler.md",
+    "sisop/clases/practicas/Clase practica 20-04.md",
+    "img/sisop-process-table.png",
+    "img/Screenshot from 2024-05-05 18-15-34.png",
+    "img/sisiop-ipc.png",
+    "sisop/clases/teoricas/Clase 05-03.md",
+    "img/sisop-sleeplock.png",
+    "img/Screenshot from 2024-05-03 20-24-59.png",
+    "img/sisop-spinlock.png",
+    "img/Screenshot from 2024-05-03 20-16-24.png",
+    "img/sisop-race-condition.png",
+    "img/Screenshot from 2024-05-03 19-51-57.png",
+    "img/sisop-thread-group.png",
+    "img",
+    "sisop/teoría/7. Filesystems.md",
     "sisop/teoría/2. Kernel - userland vs kernelspace.md",
-    "sisop/clases/teoricas/Clase 18-04.md",
     "README.md",
     "sisop/Bibliografía.md"
   ]
