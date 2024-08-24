@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sisop/teoría/4. Virtualización de memoria (introducción).md",
+                "file": "redes/Clase Teórica 23-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sisop/teoría/4. Virtualización de memoria (introducción).md",
+                "file": "redes/Clase Teórica 23-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sisop/teoría/4. Virtualización de memoria (introducción).md",
+                "file": "redes/Clase Teórica 23-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sisop/teoría/4. Virtualización de memoria (introducción).md"
+                "file": "redes/Clase Teórica 23-08.md"
               }
             }
           },
@@ -159,39 +159,47 @@
   },
   "active": "d47876d4d368f317",
   "lastOpenFiles": [
-    "sisop/clases/practicas/Ejercicios.md",
+    "redes/Clase Practica 22-08.md",
+    "redes/Clase Teórica 23-08.md",
+    "redes/Introduccion.md",
+    "redes/img",
+    "redes/img/Screenshot from 2024-08-22 20-15-34.png",
+    "ebt1/Introducción.md",
+    "ebt1/Clase 19-08.md",
+    "bbdd/Introducción.md",
+    "bbdd/Clase Teórica 20-08.md",
+    "redes",
+    "bbdd/Clase Practica 21-08.md",
     "sisop/teoría/4. Virtualización de memoria (introducción).md",
-    "img/sisop/sisop-user-kernel.png",
-    "img/sisop/sisop-thread-group.png",
-    "img/sisop/sisop-spinlock.png",
-    "img/sisop/sisop-sleeplock.png",
-    "img/sisop/sisop-race-condition.png",
-    "img/sisop/sisop-process-table.png",
-    "img/sisop/sisop-proceso.png",
-    "img/sisop/sisop-mvp.png",
-    "img/sisop/sisiop-mfp.png",
-    "img/sisop/sisiop-ipc.png",
-    "img/sisop",
-    "sisop/teoría/7. Filesystems.md",
+    "img/imng/Sin título.md",
+    "bbdd/img/Pasted image 20240821213128.png",
+    "bbdd/img/Pasted image 20240820194953.png",
+    "bbdd/img/Pasted image 20240820195655.png",
+    "bbdd/img/Pasted image 20240820211227.jpg",
+    "bbdd/img/Pasted image 20240820201101.png",
+    "bbdd/img/Pasted image 20240820200933.png",
+    "bbdd/img/Pasted image 20240820200926.png",
+    "bbdd/img/Pasted image 20240820200913.png",
+    "bbdd/img/Pasted image 20240820200235.png",
+    "README.md",
+    "bbdd",
     "sisop/teoría/3. La abstracción de proceso.md",
+    "sisop/teoría/2. Kernel - userland vs kernelspace.md",
+    "sisop/teoría/1. Introducción a los sistemas operativos.md",
+    "sisop/clases/teoricas/Clase 03-14.md",
+    "sisop/clases/teoricas/Clase 03-20.md",
+    "sisop/clases/teoricas/Clase 03-27.md",
     "sisop/teoría/5. Scheduling.md",
     "sisop/teoría/6. Concurrencia.md",
+    "sisop/teoría/7. Filesystems.md",
+    "sisop/clases/practicas/Ejercicios.md",
+    "sisop/img",
     "Sin título.canvas",
-    "sisop/teoría/1. Introducción a los sistemas operativos.md",
     "sisop/clases/teoricas/Clase 04-24.md",
-    "sisop/clases/teoricas/Clase 03-27.md",
-    "sisop/teoría/2. Kernel - userland vs kernelspace.md",
-    "sisop/clases/teoricas/Clase 03-20.md",
-    "sisop/clases/teoricas/Clase 03-14.md",
     "2024-06-30.md",
     "sisop/clases/teoricas/Clase 05-15.md",
     "sisop/clases/teoricas/Clase 05-03.md",
     "sisop/clases/teoricas/Clase 04-18.md",
-    "sisop/Notas para parcial.md",
-    "sisop/clases/practicas/TP Scheduler.md",
-    "sisop/clases/practicas/Clase practica 20-04.md",
-    "img",
-    "README.md",
-    "sisop/Bibliografía.md"
+    "bbdd/img"
   ]
 }
