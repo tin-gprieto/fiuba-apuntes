@@ -91,9 +91,11 @@ DNS Resolver local: resuelve mas rápido
 
 *Lectura*: Hasta 3.4 inclusive para la teórica -> PARCIALITO (SOLO DEL 3)
 
-
 #### Tipo de consultas
 
 FALTA
+
+
+
 
 

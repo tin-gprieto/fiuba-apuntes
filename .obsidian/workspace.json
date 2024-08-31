@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33e4107ef193336d",
+        "id": "23a36d7b58f17313",
         "type": "tabs",
         "children": [
           {
-            "id": "d47876d4d368f317",
+            "id": "ebb28df9b2ea806a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redes/Clase Teórica 23-08.md",
+                "file": "redes/Clase Teórica 30-8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redes/Clase Teórica 23-08.md",
+                "file": "redes/Clase Teórica 30-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redes/Clase Teórica 23-08.md",
+                "file": "redes/Clase Teórica 30-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redes/Clase Teórica 23-08.md"
+                "file": "redes/Clase Teórica 30-8.md"
               }
             }
           },
@@ -157,19 +157,31 @@
       "companion:Toggle completion": false
     }
   },
-  "active": "d47876d4d368f317",
+  "active": "ebb28df9b2ea806a",
   "lastOpenFiles": [
-    "redes/Clase Practica 22-08.md",
     "redes/Clase Teórica 23-08.md",
+    "redes/Clase Teórica 30-8.md",
+    "sisop/clases/teoricas/Clase 04-18.md",
+    "redes/Clase Practica 29-08.md",
+    "redes/Clase Practica 22-08.md",
+    "bbdd/img/Pasted image 20240829182823.png",
+    "ebt1/img/Pasted image 20240826190113.png",
+    "ebt1/img/Pasted image 20240826185549.png",
+    "ebt1/img",
+    "ebt1/Sin título.md",
+    "bbdd/img/Clase Practica 28-08.md",
+    "bbdd/Clase Teórica 27-08.md",
+    "bbdd/Clase Practica 21-08.md",
+    "bbdd/Clase Teórica 20-08.md",
+    "ebt1/Clase 26-08.md",
+    "ebt1/Clase 23-08.md",
     "redes/Introduccion.md",
     "redes/img",
     "redes/img/Screenshot from 2024-08-22 20-15-34.png",
     "ebt1/Introducción.md",
     "ebt1/Clase 19-08.md",
     "bbdd/Introducción.md",
-    "bbdd/Clase Teórica 20-08.md",
     "redes",
-    "bbdd/Clase Practica 21-08.md",
     "sisop/teoría/4. Virtualización de memoria (introducción).md",
     "img/imng/Sin título.md",
     "bbdd/img/Pasted image 20240821213128.png",
@@ -178,9 +190,6 @@
     "bbdd/img/Pasted image 20240820211227.jpg",
     "bbdd/img/Pasted image 20240820201101.png",
     "bbdd/img/Pasted image 20240820200933.png",
-    "bbdd/img/Pasted image 20240820200926.png",
-    "bbdd/img/Pasted image 20240820200913.png",
-    "bbdd/img/Pasted image 20240820200235.png",
     "README.md",
     "bbdd",
     "sisop/teoría/3. La abstracción de proceso.md",
@@ -190,16 +199,8 @@
     "sisop/clases/teoricas/Clase 03-20.md",
     "sisop/clases/teoricas/Clase 03-27.md",
     "sisop/teoría/5. Scheduling.md",
-    "sisop/teoría/6. Concurrencia.md",
-    "sisop/teoría/7. Filesystems.md",
-    "sisop/clases/practicas/Ejercicios.md",
     "sisop/img",
     "Sin título.canvas",
-    "sisop/clases/teoricas/Clase 04-24.md",
-    "2024-06-30.md",
-    "sisop/clases/teoricas/Clase 05-15.md",
-    "sisop/clases/teoricas/Clase 05-03.md",
-    "sisop/clases/teoricas/Clase 04-18.md",
     "bbdd/img"
   ]
 }
