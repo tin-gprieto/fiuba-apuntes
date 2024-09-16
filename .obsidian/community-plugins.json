@@ -9,5 +9,9 @@
   "obsidian-plugin-toc",
   "companion",
   "obsidian-completr",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "obsidian-icon-folder",
+  "obsidian-annotator"
 ]

@@ -1,5 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Tokyo Night",
-  "interfaceFontFamily": "JetBrains Mono"
+  "cssTheme": "Things",
+  "interfaceFontFamily": "Cascadia Code",
+  "baseFontSize": 18,
+  "nativeMenus": true,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Cascadia Code"
 }
