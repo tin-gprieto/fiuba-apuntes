@@ -60,7 +60,8 @@ Sirve para agilizar consultas
 
 CREATE INDEX (name) ON (table)
 
-## Manipulacion de dato -- DML (Data Manipulation Language)
+## Manipulación de dato -- DML (Data Manipulation Language)
+---
 
 ### SELECT 
 
@@ -159,3 +160,6 @@ _COUNT
 - *  Cantidad de filas
 - (column) Cantidad de filas con dicha column distinta de NULL
 - (DISTINCT column)
+
+
+### Clausula Having

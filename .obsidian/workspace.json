@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "178db3b0ccb175ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redes/Teoricas/09-20 IPv6 - NAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f42d1e14a9145d44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "redes/Teoricas/09-20 IPv6 - NAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redes/Teoricas/09-13 - Capa de Red - IPv4.md",
+                "file": "redes/Teoricas/09-20 IPv6 - NAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redes/Teoricas/09-13 - Capa de Red - IPv4.md",
+                "file": "redes/Teoricas/09-20 IPv6 - NAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redes/Teoricas/09-13 - Capa de Red - IPv4.md"
+                "file": "redes/Teoricas/09-20 IPv6 - NAT.md"
               }
             }
           },
@@ -160,13 +185,22 @@
   },
   "active": "9a883e04e017eb10",
   "lastOpenFiles": [
+    "Pasted image 20240920211501.png",
+    "redes/Teoricas/09-20 IPv6 - NAT.md",
+    "redes/img/technologies_white_paper0900aecd8054d37d-03.avif",
+    "Excalidraw/Drawing 2024-09-20 20.31.54.excalidraw.md",
+    "Excalidraw",
+    "ebt1/09-20 Charla 1.md",
+    "redes/Practica/09-19 SYN Flood.md",
+    "bbdd/09-17 Teorica.md",
+    "bbdd/09-10 Teórica.md",
+    "redes/Teoricas/09-13 - Capa de Red - IPv4.md",
     "Excalidraw/Drawing 2024-09-06 21.08.30.excalidraw.md",
     "Excalidraw/Drawing 2024-09-06 21.08.46.excalidraw.md",
     "redes/img/Pasted image 20240912190716.png",
     "redes/img/Pasted image 20240912190757.png",
     "redes/img/Pasted image 20240913194104.jpg",
     "redes/Practica/08-29 - DNS.md",
-    "redes/Teoricas/09-13 - Capa de Red - IPv4.md",
     "redes/Teoricas/09-06 - TCP.md",
     "redes/Teoricas/08-30 - Transport layer.md",
     "redes/Practica/09-12 - Sockets.md",
@@ -177,9 +211,7 @@
     "bbdd/09-11 Practica.md",
     "bbdd/src/taller_4_dump.md",
     "bbdd/src",
-    "bbdd/09-10 Teórica.md",
     "ebt1/09-02 Dinero - Inflación.md",
-    "Excalidraw",
     "redes/Teoricas/08-23 - TCP IP Model - HTTP - DNS.md",
     "redes/Practica/08-22 - Introducción - Métricas de tiempo.md",
     "redes/Practica/09-05 - CDN.md",
@@ -191,14 +223,7 @@
     "ebt1/08-26 - Demanda y Oferta - Equilibrio.md",
     "ebt1/08-30 - Elasticidad - Imperfección de los Mercados.md",
     "ebt1/08-23 - Introducción a la Economía.md",
-    "ebt1/08-19 - Introducción a la materia.md",
     "ebt1/img/Pasted image 20240902170802.png",
-    "bbdd/Teórica 20-08.md",
-    "bbdd/Teórica 27-08.md",
-    "bbdd/Practica 21-08.md",
-    "sisop/clases/practicas/Ejercicios.md",
-    "bbdd/img/Pasted image 20240829182823.png",
-    "ebt1/img/Pasted image 20240826190113.png",
     "ebt1/img",
     "redes/img",
     "redes",
