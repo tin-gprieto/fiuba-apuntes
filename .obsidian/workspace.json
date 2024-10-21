@@ -8,43 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "134df63bc9f548d6",
+            "id": "dbc243a95ba547d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redes/Teoricas/09-13 - Capa de Red - IPv4.md",
+                "file": "redes/Teoricas/09-06 - TCP.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "178db3b0ccb175ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "redes/Teoricas/09-20 IPv6 - NAT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f42d1e14a9145d44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "redes/Teoricas/09-20 IPv6 - NAT.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "09-06 - TCP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -79,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -87,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -110,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redes/Teoricas/09-20 IPv6 - NAT.md",
+                "file": "redes/Teoricas/09-06 - TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 09-06 - TCP"
             }
           },
           {
@@ -127,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redes/Teoricas/09-20 IPv6 - NAT.md",
+                "file": "redes/Teoricas/09-06 - TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 09-06 - TCP"
             }
           },
           {
@@ -141,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -150,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redes/Teoricas/09-20 IPv6 - NAT.md"
-              }
+                "file": "redes/Teoricas/09-06 - TCP.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 09-06 - TCP"
             }
           },
           {
@@ -159,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -183,53 +176,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a883e04e017eb10",
+  "active": "dbc243a95ba547d3",
   "lastOpenFiles": [
-    "Pasted image 20240920211501.png",
-    "redes/Teoricas/09-20 IPv6 - NAT.md",
-    "redes/img/technologies_white_paper0900aecd8054d37d-03.avif",
-    "Excalidraw/Drawing 2024-09-20 20.31.54.excalidraw.md",
-    "Excalidraw",
-    "ebt1/09-20 Charla 1.md",
-    "redes/Practica/09-19 SYN Flood.md",
-    "bbdd/09-17 Teorica.md",
-    "bbdd/09-10 Teórica.md",
-    "redes/Teoricas/09-13 - Capa de Red - IPv4.md",
-    "Excalidraw/Drawing 2024-09-06 21.08.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-06 21.08.46.excalidraw.md",
-    "redes/img/Pasted image 20240912190716.png",
-    "redes/img/Pasted image 20240912190757.png",
-    "redes/img/Pasted image 20240913194104.jpg",
-    "redes/Practica/08-29 - DNS.md",
-    "redes/Teoricas/09-06 - TCP.md",
-    "redes/Teoricas/08-30 - Transport layer.md",
-    "redes/Practica/09-12 - Sockets.md",
+    "bbdd/teoria/10-15 Concurrencia y Transacciones.md",
+    "ebt1/08-30 - Elasticidad - Imperfección de los Mercados.md",
+    "Pasted image 20241015022953.png",
+    "Pasted image 20241015012527.jpg",
+    "ebt1/08-26 - Demanda y Oferta - Equilibrio.md",
+    "ebt1/08-23 - Introducción a la Economía.md",
+    "ebt1/08-19 - Introducción a la materia.md",
     "bbdd/img/Pasted image 20240911203713.jpg",
+    "bbdd/img/Pasted image 20240821213128.png",
+    "bbdd/img/Pasted image 20240829182823.png",
     "bbdd/img/Pasted image 20240910205509.png",
-    "Pasted image 20240910205316.png",
-    "redes/img/Pasted image 20240906205121.jpg",
-    "bbdd/09-11 Practica.md",
-    "bbdd/src/taller_4_dump.md",
-    "bbdd/src",
+    "redes/Teoricas/10-04 - Control Plane - SDN.md",
+    "redes/Practica/09-26 - Forwarding - Prefijos.md",
+    "redes/Practica/09-19 - SYN Flood.md",
+    "redes/Practica/09-12 - Sockets.md",
+    "ebt1/30-09 Prestamos.md",
+    "bbdd/practica/09-25 Practica.md",
+    "ebt1/img/Pasted image 20240923191316.png",
+    "ebt1/img/Pasted image 20240923201135.png",
+    "redes/Teoricas/09-27 - Control plane.md",
+    "redes/Teoricas/09-20 - IPv6 - NAT.md",
+    "bbdd/teoria/08-20 Teórica.md",
+    "bbdd/teoria/09-17 Teorica - SQL.md",
+    "bbdd/teoria/09-24 Teorica.md",
+    "bbdd/teoria/09-10 Teórica - SQL.md",
+    "bbdd/teoria/08-27 Teórica.md",
+    "bbdd/teoria/09-03 FALTA (Algebra relacional).md",
+    "bbdd/practica/08-21 Practica.md",
+    "bbdd/Introducción.md",
+    "bbdd/practica",
+    "bbdd/teoria",
+    "ebt1/09-23 Valor agregado - Incubación vs aceleracion.md",
     "ebt1/09-02 Dinero - Inflación.md",
-    "redes/Teoricas/08-23 - TCP IP Model - HTTP - DNS.md",
-    "redes/Practica/08-22 - Introducción - Métricas de tiempo.md",
-    "redes/Practica/09-05 - CDN.md",
+    "redes/Teoricas/09-13 - Capa de Red - IPv4.md",
+    "ebt1/09-20 Charla 1.md",
+    "ebt1/Introducción.md",
+    "Pasted image 20240920211501.png",
+    "redes/img/technologies_white_paper0900aecd8054d37d-03.avif",
+    "Excalidraw",
+    "bbdd/src",
     "redes/Practica",
     "redes/Teoricas",
-    "redes/Introduccion.md",
-    "ebt1/Introducción.md",
-    "sisop/clases/teoricas/Clase 03-14.md",
-    "ebt1/08-26 - Demanda y Oferta - Equilibrio.md",
-    "ebt1/08-30 - Elasticidad - Imperfección de los Mercados.md",
-    "ebt1/08-23 - Introducción a la Economía.md",
-    "ebt1/img/Pasted image 20240902170802.png",
     "ebt1/img",
     "redes/img",
     "redes",
     "bbdd",
-    "sisop/img",
-    "Sin título.canvas",
-    "bbdd/img"
+    "Sin título.canvas"
   ]
 }

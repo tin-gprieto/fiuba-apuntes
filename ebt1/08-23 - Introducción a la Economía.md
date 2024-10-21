@@ -93,12 +93,67 @@ Otros productos: Bruto Nacional, Neto interno, Neto Nacional
 
 _De Bruto a Neto_: se resta las amortizaciones (perdidas de los bienes de capital)
 
-### Circuito Macro-económico
+Diferencia con neto:  - Amortizaciones/depreciaciones
+
+Forma de saber si esta creciendo o no 
+
+### Circuito Macro-económico Abierto
+
+Como funciona una economía moderna
+
+Agentes:
+- Familias 
+- Empresas 
+- Gobierno: regula la actividad
+- Sistema financiero 
+- Externo 
+
+AHORRO -> Inversion 
 
 ### Balanza de Pagos
 
+Balanza comercial: Entrada/salida de divisas 
+
+Cuenta corriente: remuneración de factores + balanza comercial
+
+CC positivas: acumulación de reservas
+CC negativa: deficit -> Deuda o emisión
+
 ### Definición de finanzas
+
+Estudia como se obtiene y administra el capital:
+
+- Financiación
+- inversion
+- Ahorro
+- Tasa de interés 
+- Valor tiempo del dinero
+- entre otros
+
+_Tipos de finanzas_:
+
+- Personales
+- Privadas 
+- Publicas 
+- Internacionales 
 
 ### Diferencia entre Económico y Financiero
 
+| **Economía**          | **Finanzas**                 |
+| --------------------- | ---------------------------- |
+| Producción y consumo  | Optimizacion de los recursos |
+| Oferta y demanda      | Flujos del dinero            |
+| Inflacion y recesion  | Analisis de las inversiones  |
+| Perspectiva academica | Perspectiva practica         |
+| Largoplazista         | Cortoplazista                |
+
+
+Que haría si tuviera mucha plata (ganar la loteria) ? -> Como la invierto?
+
+
+LIBRO DE TOYOTISMO
+
+_La máquina que cambió el mundo_: La historia de la Producción Lean, el arma secreta de Toyota que revoluciono la industria mundial del automóvil.
+
+_James P. Womack, Daniel T. Jones, Daniel Roos_
 
