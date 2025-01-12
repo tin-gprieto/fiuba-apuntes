@@ -1,7 +1,6 @@
 ---
 ~
 ---
-
 **Servidor proxy**: intermediario con el local. Ayuda con requerimientos frecuentes o de diferentes dispositivos en la misma red. Importante cuando los enlaces eran muy lentos.
 
 ## Capa de transporte

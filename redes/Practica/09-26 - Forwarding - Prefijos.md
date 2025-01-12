@@ -39,6 +39,8 @@ Subdivision lógica de una red
 
 Permiten agrupar una cantidad de direcciones 
 
+![[Drawing 2024-10-23 00.17.25.excalidraw]]
+
 
 Dirección de la red 195.42.40.0/22 -> Hosts: 10 bits 
 
