@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.redes/Practica/08-22 - Introducción - Métricas de tiempo.md",
+                "file": "6.GDSI/08-20 Introduccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-22 - Introducción - Métricas de tiempo"
+              "title": "08-20 Introduccion"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 288.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "a7467f8683f0eae2",
@@ -152,8 +153,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           }
         ]
@@ -170,15 +171,18 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "companion:Toggle completion": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "aba6588e4c2f9fcd",
   "lastOpenFiles": [
+    "5.SD1/08-19 - Introduccion.md",
+    "6.GDSI/08-20 Introduccion.md",
+    "6.GDSI",
+    "0.img/Pasted image 20250819210222.png",
+    "5.SD1/08-19 - Presentación.md",
+    "2.redes/Practica/08-22 - Introducción - Métricas de tiempo.md",
+    "5.SD1",
     "1.sisop/teoría/4. Virtualización de memoria (introducción).md",
     "Excalidraw/Drawing 2024-09-20 20.31.54.excalidraw.md",
     "1.sisop/teoría/5. Scheduling.md",
@@ -204,7 +208,6 @@
     "0.img/Pasted image 20240826185549.png",
     "0.img/Pasted image 20241120194302.png",
     "0.img/Pasted image 20241106202647.png",
-    "0.img/Pasted image 20240911203713.jpg",
     "0.img/Clase Practica 28-08.md",
     "0.img/09-13 - Capa de Red - IPv4.md",
     "0.img",
@@ -212,10 +215,6 @@
     "3.bbdd/practica/09-11 Practica.md",
     "3.bbdd/practica/11-20 Costos.md",
     "2.redes/Practica/11-07 - TP2.md",
-    "2.redes/Practica/31-10 Practica.md",
-    "4.ebt1/11-15 Charla LEVEX.md",
-    "2.redes/Introduccion.md",
-    "3.bbdd/practica/11-06 Neo4j.md",
     "3.bbdd/practica",
     "3.bbdd/teoria",
     "Excalidraw",
@@ -223,8 +222,6 @@
     "2.redes/Practica",
     "2.redes/Teoricas",
     "4.ebt1/img",
-    "2.redes/img",
-    "2.redes",
     "Sin título.canvas"
   ]
 }
