@@ -348,6 +348,7 @@ QRRR
 QNN
 Qww
 Qcc
+Quiz
 es
 el
 entre
@@ -1381,6 +1382,7 @@ oTT
 ofrecer
 oficinas
 oportunidad
+obligatorias
 Maquina
 Memoria
 Maneja
@@ -3908,6 +3910,7 @@ conocimientos
 contactos
 competidores
 capacitaci
+cticas
 Kernel
 KH
 KuR
@@ -6621,6 +6624,7 @@ qFG
 qVp
 quiero
 qWD
+quienes
 los
 la
 lo
