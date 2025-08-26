@@ -5,7 +5,7 @@ Prácticas no obligatorias -> Quiz para quienes participan
 ## Docker
 
 
-(insertar cheetsheet)
+![[Pasted image 20250826193500.png]]
 
 - docker ps -> Ve qué contenedores hay corriendo o existen en docker
 	- -a
