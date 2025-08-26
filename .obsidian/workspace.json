@@ -11,17 +11,40 @@
             "id": "aba6588e4c2f9fcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "5.SD1/21-08 - Práctica Docker-TP0.md",
-                "mode": "source",
-                "source": false
+                "file": "0.img/Pasted image 20250826155617.png"
               },
-              "icon": "lucide-file",
-              "title": "21-08 - Práctica Docker-TP0"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250826155617"
+            }
+          },
+          {
+            "id": "78cbbee4b074ff0f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "0.img/Pasted image 20250826165906.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250826165906"
+            }
+          },
+          {
+            "id": "5a0599b5136b0a69",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5.SD1/TPs/Distribuidos - TP0 - Docker, Concurrencia y Comunicaciones (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Distribuidos - TP0 - Docker, Concurrencia y Comunicaciones (1)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +67,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -165,27 +188,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "companion:Toggle completion": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aba6588e4c2f9fcd",
+  "active": "9a883e04e017eb10",
   "lastOpenFiles": [
-    "7.Arquitectura de SW/08-21 -  Introducción a la materia.md",
-    "7.Arquitectura de SW",
+    "0.img/Pasted image 20250826173003.png",
     "5.SD1/TPs/Distribuidos - TP0 - Docker, Concurrencia y Comunicaciones (1).pdf",
+    "5.SD1/21-08 - Práctica Repaso y TP0.md",
+    "0.img/Pasted image 20250826173845.png",
+    "0.img/Pasted image 20250826173821.png",
+    "0.img/Pasted image 20250826173618.png",
+    "0.img/Pasted image 20250826173203.png",
+    "0.img/Pasted image 20250826172845.png",
+    "7.Arquitectura de SW/08-21 -  Introducción a la materia.md",
+    "0.img/Pasted image 20250826170306.png",
+    "0.img/Pasted image 20250826165906.png",
+    "0.img/Pasted image 20250826155617.png",
+    "7.Arquitectura de SW",
     "5.SD1/TPs",
     "6.GDSI/08-20 Introduccion.md",
-    "5.SD1/21-08 - Práctica Docker-TP0.md",
     "5.SD1/08-19 - Introduccion.md",
     "6.GDSI",
     "0.img/Pasted image 20250819210222.png",
@@ -208,20 +240,10 @@
     "4.ebt1/11-11 Charla DDHH.md",
     "4.ebt1/08-19 - Introducción a la materia.md",
     "README.md",
-    "0.img/Pasted image 20241015022953.png",
-    "0.img/Pasted image 20241015012527.jpg",
-    "0.img/Pasted image 20240923201135.png",
-    "0.img/Pasted image 20240923191316.png",
-    "0.img/Pasted image 20240902170802.png",
-    "0.img/Pasted image 20240826190113.png",
-    "0.img/Pasted image 20240826185549.png",
-    "0.img/Pasted image 20241120194302.png",
-    "0.img/Pasted image 20241106202647.png",
     "0.img/Clase Practica 28-08.md",
     "0.img/09-13 - Capa de Red - IPv4.md",
     "0.img",
     "2.redes/Teoricas/11-22 - Movilidad.md",
-    "3.bbdd/practica/09-11 Practica.md",
     "3.bbdd/practica",
     "3.bbdd/teoria",
     "Excalidraw",
