@@ -11,40 +11,17 @@
             "id": "aba6588e4c2f9fcd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0.img/Pasted image 20250826155617.png"
+                "file": "7.arqui/09-11 - Docker - Performace, Scalability, Availability.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250826155617"
-            }
-          },
-          {
-            "id": "78cbbee4b074ff0f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "0.img/Pasted image 20250826165906.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250826165906"
-            }
-          },
-          {
-            "id": "5a0599b5136b0a69",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "5.SD1/TPs/Distribuidos - TP0 - Docker, Concurrencia y Comunicaciones (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Distribuidos - TP0 - Docker, Concurrencia y Comunicaciones (1)"
+              "icon": "lucide-file",
+              "title": "09-11 - Docker - Performace, Scalability, Availability"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +152,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           }
         ]
@@ -201,53 +178,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a883e04e017eb10",
+  "active": "aba6588e4c2f9fcd",
   "lastOpenFiles": [
-    "0.img/Pasted image 20250826173003.png",
-    "5.SD1/TPs/Distribuidos - TP0 - Docker, Concurrencia y Comunicaciones (1).pdf",
-    "5.SD1/21-08 - Práctica Repaso y TP0.md",
-    "0.img/Pasted image 20250826173845.png",
-    "0.img/Pasted image 20250826173821.png",
-    "0.img/Pasted image 20250826173618.png",
-    "0.img/Pasted image 20250826173203.png",
-    "0.img/Pasted image 20250826172845.png",
-    "7.Arquitectura de SW/08-21 -  Introducción a la materia.md",
-    "0.img/Pasted image 20250826170306.png",
-    "0.img/Pasted image 20250826165906.png",
-    "0.img/Pasted image 20250826155617.png",
-    "7.Arquitectura de SW",
-    "5.SD1/TPs",
+    "Pasted image 20250911214608.png",
     "6.GDSI/08-20 Introduccion.md",
+    "1.sisop/clases/teoricas/Clase 03-14.md",
+    "1.sisop/teoría/6. Concurrencia.md",
+    "1.sisop/teoría/5. Scheduling.md",
+    "1.sisop/teoría/4. Virtualización de memoria (introducción).md",
+    "1.sisop/teoría/1. Introducción a los sistemas operativos.md",
+    "1.sisop/teoría/2. Kernel - userland vs kernelspace.md",
+    "1.sisop/teoría/3. La abstracción de proceso.md",
+    "7.arqui/09-11 - Docker - Performace, Scalability, Availability.md",
+    "0.img/Pasted image 20250911212854.png",
+    "0.img/Pasted image 20250911204021.png",
+    "0.img/Pasted image 20250911185225.png",
+    "8.RPA - PL500/09-11 Minería de procesos.md",
+    "Excalidraw/Drawing 2025-09-11 16.24.13.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-11 16.24.14.excalidraw.md",
+    "8.RPA - PL500/09-09 - Presentación.md",
+    "0.img/Pasted image 20250909114439.png",
+    "0.img/Pasted image 20250909112831.png",
+    "0.img/Pasted image 20250909112741.jpg",
+    "0.img/Pasted image 20250909110621.png",
+    "8.RPA - PL500",
+    "6.GDSI/08-27.md",
+    "TPP.md",
+    "5.distro/TPs/Distribuidos - TP0 - Docker, Concurrencia y Comunicaciones (1).pdf",
+    "5.distro/TPs",
+    "5.distro/09-02.md",
+    "5.distro/08-26 - Paralelizacion - Multi Processors - Documentación.md",
+    "5.distro/08-21 - Práctica Repaso y TP0.md",
+    "5.distro/08-19 - 2.Introducción - Virtualizacion.md",
+    "5.distro/08-19 - 1.Presentación.md",
+    "5.distro",
+    "0.img/Pasted image 20250902215451.png",
+    "0.img/Pasted image 20250902215423.png",
+    "0.img/Pasted image 20250902212602.png",
     "5.SD1/08-19 - Introduccion.md",
-    "6.GDSI",
-    "0.img/Pasted image 20250819210222.png",
     "5.SD1/08-19 - Presentación.md",
+    "6.GDSI",
     "2.redes/Practica/08-22 - Introducción - Métricas de tiempo.md",
     "5.SD1",
-    "1.sisop/teoría/4. Virtualización de memoria (introducción).md",
     "Excalidraw/Drawing 2024-09-20 20.31.54.excalidraw.md",
-    "1.sisop/teoría/5. Scheduling.md",
     "2.redes/Teoricas/08-23 - TCP IP Model - HTTP - DNS.md",
-    "2.redes/Teoricas/11-15 - WIFI.md",
-    "2.redes/Teoricas/09-27 - Control plane.md",
-    "2.redes/Teoricas/08-30 - Transport layer.md",
-    "2.redes/Teoricas/09-06 - TCP.md",
-    "2.redes/Teoricas/09-20 - IPv6 - NAT.md",
-    "2.redes/Teoricas/10-04 - Control Plane - SDN.md",
-    "2.redes/Teoricas/11-01 - Capa de Enlace.md",
-    "2.redes/Teoricas/11-08 - Capa de Enlace (2).md",
-    "4.ebt1/09-23 Valor agregado - Incubación vs aceleracion.md",
-    "4.ebt1/11-11 Charla DDHH.md",
-    "4.ebt1/08-19 - Introducción a la materia.md",
-    "README.md",
-    "0.img/Clase Practica 28-08.md",
-    "0.img/09-13 - Capa de Red - IPv4.md",
     "0.img",
-    "2.redes/Teoricas/11-22 - Movilidad.md",
     "3.bbdd/practica",
     "3.bbdd/teoria",
     "Excalidraw",
-    "3.bbdd/src",
     "Sin título.canvas"
   ]
 }
