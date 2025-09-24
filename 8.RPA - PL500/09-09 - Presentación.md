@@ -87,9 +87,19 @@ LICENCIA !
 
 Codigo: MOC-B963KNNN6
 
-|                   |                                                                                                                                                                                              |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cloud Credentials |                                                                                                                                                                                              |
-|                   | O365 CredentialsAdmin Username  <br>admin@M365x86008840.onmicrosoft.com   <br>Admin Password  <br>(6c0i;b$2lzCN(2Y6KW0(2D^XQ6;^aea   <br>User Password  <br>$#{80tRx%Ij3p=H09^ljfF70L+(PQcI3 |
-|                   |                                                                                                                                                                                              |
+
+O365 Credentials
+
+| Admin Username | admin@M365x86008840.onmicrosoft.com |
+| -------------- | ----------------------------------- |
+| Admin Password | (6c0i;b$2lzCN(2Y6KW0(2D^XQ6;^aea    |
+| User Password  | $#{80tRx%Ij3p=H09^ljfF70L+(PQcI3    |
+
 Joe             [pass@word1]
+
+
+monicabullon@nextraining.es
+
+GDPR.eu
+
+Swagger -> API
