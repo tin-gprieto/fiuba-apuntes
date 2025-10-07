@@ -93,8 +93,6 @@ Papers, bla bla bla
 	- Cm: minimo 
 	- Cp: pesimista
 
-
-
 ## Modelos de cotizacion
 
 ### Time & Materials 
@@ -109,7 +107,7 @@ Desventajas:
 ### Precio fijo 
 
 Ventajas:
-- Alcance, tiwempo y precios definidos
+- Alcance, tiempo y precios definidos
 - Pagos por hitos o %
 
 Desventajas:
