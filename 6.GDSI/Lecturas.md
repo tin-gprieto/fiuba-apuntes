@@ -315,3 +315,60 @@ Tendencia a subestimar tiempos y costos, olvidando sobrecargas, tareas omitidas 
 ### 17. **Negociación de estimaciones**
 
 Discusión entre responsables técnicos y de negocio para alinear las estimaciones con objetivos realistas, evitando confundirlas con compromisos inamovibles.
+
+# Waltzing with Bears: Managing Risk on Software Projects
+
+### **Prólogo – “The Ethics of Belief”**
+
+**Idea por párrafo:**
+
+1. Se describe una reunión en 1876 del selecto grupo londinense “Metaphysical Society”, en la que el joven profesor William Kingdon Clifford presenta su polémico ensayo “The Ethics of Belief”.
+    
+2. Clifford provoca indignación al afirmar que las creencias también pueden ser juzgadas éticamente: uno debe tener derecho a creer solo aquello que está sustentado en evidencia suficiente.
+    
+3. Expone el ejemplo del dueño de un barco en mal estado que, pese a sus dudas, se convence de que es seguro navegar. El barco naufraga y Clifford lo declara culpable por haber creído sin justificación.
+    
+4. Incluso si el barco hubiese llegado a puerto, el dueño seguiría siendo culpable porque actuó sin derecho a su creencia: la ética depende del origen del juicio, no del resultado.
+    
+5. Clifford desafía la noción de que creer lo que uno quiera es inocuo; incluso cita el absurdo de “creer seis cosas imposibles antes del desayuno” de _Alicia a través del espejo_.
+    
+6. Los autores comparan esa credulidad con la gestión de proyectos de software, donde los gerentes frecuentemente deben “creer” en presupuestos o plazos imposibles.
+    
+7. Se ilustra cómo los gerentes se convencen de cumplir metas inalcanzables por presión o deseo de éxito, repitiendo el autoengaño del armador del barco.
+    
+8. Finalmente, se introduce la idea de que el **manejo de riesgos** es la aplicación práctica de la “ética de la creencia”: solo se debe creer lo que la evidencia respalda, reemplazando la ilusión por análisis racional del riesgo.
+    
+
+**Resumen general del prólogo:**  
+El prólogo conecta la filosofía moral de William Kingdon Clifford con la gestión moderna de proyectos. Clifford sostenía que creer sin pruebas suficientes es un acto inmoral. Los autores aplican esta ética al desarrollo de software: muchos proyectos fracasan porque los gerentes aceptan metas sin evidencia real de que sean alcanzables. El **riesgo** se presenta como la herramienta para reemplazar la fe ciega por decisiones basadas en hechos. Hacer gestión de riesgos, dicen, es practicar la ética de creer solo lo que se tiene derecho a creer.
+
+---
+
+### **Capítulo 3 – “Denver International Airport Reconsidered”**
+
+**Idea por párrafo:**
+
+1. Se relata el caso del aeropuerto internacional de Denver, iniciado en 1988 con grandes expectativas de eficiencia y menor contaminación, programado para inaugurarse en 1993.
+    
+2. Todo parecía listo excepto por el sistema automatizado de manejo de equipaje, cuyo software no estaba terminado; esto impidió abrir el aeropuerto y generó enormes pérdidas.
+    
+3. La prensa culpó a la “inmadurez” de la ingeniería de software y a la falta de procesos rigurosos.
+    
+4. Los autores cuestionan esa explicación: incluso un proceso perfecto no elimina la incertidumbre inherente a los proyectos complejos.
+    
+5. Enumeran las verdaderas fuentes de incertidumbre: requisitos cambiantes, interacción humana, recursos, gestión, política, conflictos de intereses, innovación y escala del proyecto.
+    
+6. Sostienen que la causa principal no fue técnica sino la **ausencia de gestión de riesgos**.
+    
+7. Analizan críticamente el caso: quizá no todos los subproyectos estaban listos, pero se culpó al software por ser el más visible.
+    
+8. Aun aceptando esa versión, el retraso del sistema de equipaje provocó costos adicionales de más de 500 millones de dólares.  
+    9–15. A través de una serie de preguntas (Q1–Q12), muestran cómo una gestión de riesgos básica habría identificado que el software era un punto crítico y que era necesario un plan alternativo de transporte de equipaje.
+    
+9. Concluyen que nadie en el proyecto practicó gestión de riesgos: ni se previó la posibilidad de retraso ni se diseñaron planes de contingencia.
+    
+10. Finalmente, aclaran que la culpa no era solo del contratista, sino también del gobierno de Denver, que debía haber gestionado los riesgos financieros de la demora.
+    
+
+**Resumen general del capítulo:**  
+El fracaso del aeropuerto de Denver no se debió tanto a errores de programación como a la **ausencia total de gestión del riesgo**. Los responsables no consideraron la posibilidad de retrasos en el sistema de equipaje ni prepararon alternativas, pese a que la evidencia y la experiencia lo sugerían. Los autores usan este caso para demostrar que el riesgo no se elimina con procesos técnicos, sino con decisiones conscientes y planificación preventiva. En proyectos grandes, **la falta de gestión de riesgos es en sí el mayor riesgo**.
