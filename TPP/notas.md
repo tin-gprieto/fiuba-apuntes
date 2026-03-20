@@ -27,6 +27,18 @@ Checks:
 
     psql -U ludo -d ludo -h localhost -W
 
+### Docker
+
+Create a super user
+
+docker exec -it web python3 manage.py createsuperuser --email admin.martin@ludo.com --dni 42817479 --is_student True --is_teacher True
+
+Create a student user
+
+docker exec -it web python3 manage.py shell -c "from backend.models import User, Student; \
+user = User.objects.create_user(dni='42817479', email='martin@ludo.com', password='ludo1234', is_student=True, is_teacher=False, first_name='Martín', last_name='GP'); \
+Student.objects.create(user=user, padron='105738', inscripto=True, image=None)"
+
 ## Front
 
 ### Java
